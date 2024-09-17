@@ -1,8 +1,5 @@
 import { JSDOM } from 'jsdom';
-
-interface ResultDict {
-    [key: string]: ResultDict | string | ResultDict[];
-}
+import fetch from 'node-fetch';
 
 export async function fetchCleanContent(url: string): Promise<any> {
   const response = await fetch(url);

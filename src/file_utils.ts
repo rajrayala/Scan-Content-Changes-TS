@@ -1,5 +1,4 @@
 import * as fs from 'fs';
-import * as path from 'path';
 import csv from 'csv-parser';
 
 export async function readUrlsFromCsv(csvFilePath: string): Promise<string[]> {

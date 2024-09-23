@@ -1,5 +1,5 @@
 {
-  "name": "website-content-scan",
+  "name": "scan-content-changes-ts",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

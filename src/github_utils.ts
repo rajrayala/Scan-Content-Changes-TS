@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
+import fetch from 'node-fetch';
 
 export async function updateRepo(files: string[], commitMessage: string) {
   const { Octokit } = await import('@octokit/rest');
@@ -13,7 +14,8 @@ export async function updateRepo(files: string[], commitMessage: string) {
     return;
   }
 
-  const octokit = new Octokit({ auth: token });
+  // Pass fetch to Octokit
+  const octokit = new Octokit({ auth: token, request: { fetch } });
   const [owner, name] = repoName.split('/');
 
   const { data: repo } = await octokit.repos.get({ owner, repo: name });
@@ -26,16 +28,14 @@ export async function updateRepo(files: string[], commitMessage: string) {
     const content = fs.readFileSync(file, 'utf-8');
     const { data: { sha: blobSha } } = await octokit.git.createBlob({ owner, repo: name, content, encoding: 'utf-8' });
     
-    // Specify types explicitly for mode and type
     return {
       path: path.relative(workspace, file),
-      mode: '100644' as const, // Ensure it's a literal type
-      type: 'blob' as const,   // Ensure it's a literal type
+      mode: '100644' as const,
+      type: 'blob' as const,
       sha: blobSha,
-    } as const; // Ensure the entire object is treated as a constant
+    };
   }));
 
-  // Create a new tree
   const { data: { sha: newTreeSha } } = await octokit.git.createTree({
     owner,
     repo: name,

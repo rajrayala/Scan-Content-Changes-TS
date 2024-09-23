@@ -1,0 +1,89 @@
+{
+    "div": {
+        "div": [
+            {
+                "nobr": {
+                    "b": "Search",
+                    "a": [
+                        "Images",
+                        "Maps",
+                        "Play",
+                        "YouTube",
+                        "News",
+                        "Gmail",
+                        "Drive",
+                        {
+                            "u": "More"
+                        }
+                    ]
+                }
+            },
+            {
+                "nobr": {
+                    "span": [],
+                    "a": [
+                        "Web History",
+                        "Settings",
+                        "Sign in"
+                    ]
+                }
+            }
+        ]
+    },
+    "center": {
+        "div": [
+            {
+                "br": []
+            },
+            {
+                "div": {
+                    "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                    "div": {
+                        "a": "See how Google AI is helping firefighters detect wildfires"
+                    }
+                }
+            }
+        ],
+        "form": {
+            "table": {
+                "tbody": {
+                    "tr": {
+                        "td": [
+                            {
+                                "input": [],
+                                "span": [
+                                    {
+                                        "span": {
+                                            "input": []
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "a": "Advanced search"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "span": {
+            "div": {
+                "div": {
+                    "a": [
+                        "Advertising",
+                        "Business Solutions",
+                        "About Google",
+                        "Google.com"
+                    ]
+                }
+            },
+            "p": {
+                "a": [
+                    "Privacy",
+                    "Terms"
+                ]
+            }
+        }
+    }
+}

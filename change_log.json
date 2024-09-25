@@ -1,0 +1,18 @@
+[
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['1']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "a": "See how Google AI is helping firefighters detect wildfires"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-09-25T01:45:13.338Z"
+    }
+]

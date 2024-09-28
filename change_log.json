@@ -4303,5 +4303,24 @@
             }
         },
         "timestamp": "2024-09-27T01:42:23.444Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']": {
+                    "br": []
+                },
+                "root['center']['div']['1']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "a": "Spread awareness and share support this National Recovery Month"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-09-28T01:41:31.658Z"
     }
 ]

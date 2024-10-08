@@ -4595,5 +4595,25 @@
             }
         },
         "timestamp": "2024-10-06T01:48:39.330Z"
+    },
+    {
+        "url": "https://google.com/drive",
+        "changes": {
+            "item_added": {
+                "root['div']['div']['0']['header']['div']['0']['details']['div']['div']['details']['3']['div']['div']['0']['div']['0']['details']['div']['a']['0']['div']['div']": "Security and trust",
+                "root['div']['div']['0']['header']['div']['0']['div']['1']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['0']['div']['1']['a']['0']['div']['div']['0']": "Security and trust",
+                "root['div']['div']['0']['header']['div']['0']['div']['1']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['0']['div']['1']['a']['0']['div']['div']['1']": "Keep your data safe and compliant",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['0']['div']['1']['a']['0']['div']['div']['0']": "Security and trust",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['0']['div']['1']['a']['0']['div']['div']['1']": "Keep your data safe and compliant"
+            },
+            "item_removed": {
+                "root['div']['div']['0']['header']['div']['0']['details']['div']['div']['details']['3']['div']['div']['0']['div']['0']['details']['div']['a']['0']['div']['div']": "Security",
+                "root['div']['div']['0']['header']['div']['0']['div']['1']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['0']['div']['1']['a']['0']['div']['div']['0']": "Security",
+                "root['div']['div']['0']['header']['div']['0']['div']['1']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['0']['div']['1']['a']['0']['div']['div']['1']": "Protecting your data",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['0']['div']['1']['a']['0']['div']['div']['0']": "Security",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['0']['div']['1']['a']['0']['div']['div']['1']": "Protecting your data"
+            }
+        },
+        "timestamp": "2024-10-08T01:42:37.880Z"
     }
 ]

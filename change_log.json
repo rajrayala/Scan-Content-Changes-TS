@@ -4635,5 +4635,25 @@
             }
         },
         "timestamp": "2024-10-10T01:42:01.230Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['1']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "span": [
+                                "Find out",
+                                "this election"
+                            ],
+                            "a": "how to vote"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-10-11T01:41:43.683Z"
     }
 ]

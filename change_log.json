@@ -4655,5 +4655,22 @@
             }
         },
         "timestamp": "2024-10-11T01:41:43.683Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['1']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "span": "WNBA Finals are here!",
+                            "a": "Get real time updates"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-10-14T01:44:58.565Z"
     }
 ]

@@ -4780,5 +4780,16 @@
             }
         },
         "timestamp": "2024-10-25T01:43:35.549Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']": {
+                    "br": []
+                }
+            }
+        },
+        "timestamp": "2024-10-26T01:39:58.929Z"
     }
 ]

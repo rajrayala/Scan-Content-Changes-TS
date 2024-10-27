@@ -34,6 +34,15 @@
         "div": [
             {
                 "br": []
+            },
+            {
+                "div": {
+                    "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                    "div": {
+                        "span": "It's Drug Take Back Day:",
+                        "a": "Dispose of unneeded medication today"
+                    }
+                }
             }
         ],
         "form": {

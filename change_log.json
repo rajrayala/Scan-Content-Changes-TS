@@ -4879,5 +4879,22 @@
             }
         },
         "timestamp": "2024-11-03T01:49:07.220Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']['div']": {
+                    "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                    "div": {
+                        "a": "Find out how to vote this election"
+                    }
+                }
+            },
+            "item_removed": {
+                "root['center']['div']['0']['br']": []
+            }
+        },
+        "timestamp": "2024-11-04T01:45:29.460Z"
     }
 ]

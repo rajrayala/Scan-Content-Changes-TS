@@ -4896,5 +4896,18 @@
             }
         },
         "timestamp": "2024-11-04T01:45:29.460Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']['div']['div']['a']": "Find where to vote",
+                "root['center']['div']['0']['div']['div']['span']": "Election Day is tomorrow."
+            },
+            "item_removed": {
+                "root['center']['div']['0']['div']['div']['a']": "Find out how to vote this election"
+            }
+        },
+        "timestamp": "2024-11-05T01:41:20.947Z"
     }
 ]

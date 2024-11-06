@@ -4909,5 +4909,17 @@
             }
         },
         "timestamp": "2024-11-05T01:41:20.947Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']['div']['div']['span']": "It’s Election Day!"
+            },
+            "item_removed": {
+                "root['center']['div']['0']['div']['div']['span']": "Election Day is tomorrow."
+            }
+        },
+        "timestamp": "2024-11-06T01:40:45.466Z"
     }
 ]

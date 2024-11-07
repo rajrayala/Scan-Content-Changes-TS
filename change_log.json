@@ -4921,5 +4921,23 @@
             }
         },
         "timestamp": "2024-11-06T01:40:45.466Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']['br']": []
+            },
+            "item_removed": {
+                "root['center']['div']['0']['div']": {
+                    "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                    "div": {
+                        "span": "It’s Election Day!",
+                        "a": "Find where to vote"
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-11-07T01:40:53.710Z"
     }
 ]

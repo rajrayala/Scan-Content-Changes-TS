@@ -31,20 +31,7 @@
         ]
     },
     "center": {
-        "div": [
-            {
-                "br": []
-            },
-            {
-                "div": {
-                    "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
-                    "div": {
-                        "span": "Shop the products that made our year with Google's",
-                        "a": "Holiday 100 gift guide"
-                    }
-                }
-            }
-        ],
+        "div": [],
         "form": {
             "table": {
                 "tbody": {

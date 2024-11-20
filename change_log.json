@@ -5009,5 +5009,21 @@
             }
         },
         "timestamp": "2024-11-17T01:52:44.710Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['1']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "a": "Watch key talks on climate change from COP29"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-11-20T01:47:09.632Z"
     }
 ]

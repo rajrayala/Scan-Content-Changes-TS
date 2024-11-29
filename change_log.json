@@ -5121,5 +5121,16 @@
             }
         },
         "timestamp": "2024-11-27T01:50:25.694Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['0']": {
+                    "br": []
+                }
+            }
+        },
+        "timestamp": "2024-11-29T01:49:53.725Z"
     }
 ]

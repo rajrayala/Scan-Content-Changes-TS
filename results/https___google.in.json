@@ -31,7 +31,17 @@
         ]
     },
     "center": {
-        "div": [],
+        "div": [
+            {
+                "div": {
+                    "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                    "div": {
+                        "a": "Find Cyber Monday deals",
+                        "span": "in one place on the Google Shopping deals hub"
+                    }
+                }
+            }
+        ],
         "form": {
             "table": {
                 "tbody": {

@@ -5186,5 +5186,22 @@
             }
         },
         "timestamp": "2024-12-02T01:53:59.937Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "a": "Find Cyber Monday deals",
+                            "span": "in one place on the Google Shopping deals hub"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-12-03T01:52:04.225Z"
     }
 ]

@@ -5203,5 +5203,18 @@
             }
         },
         "timestamp": "2024-12-03T01:52:04.225Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']['div']['div']['a']": "Use your imagination and AI to create a unique chess set"
+            },
+            "item_removed": {
+                "root['center']['div']['0']['div']['div']['a']": "Find Cyber Monday deals",
+                "root['center']['div']['0']['div']['div']['span']": "in one place on the Google Shopping deals hub"
+            }
+        },
+        "timestamp": "2024-12-04T01:52:31.021Z"
     }
 ]

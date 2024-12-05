@@ -5216,5 +5216,21 @@
             }
         },
         "timestamp": "2024-12-04T01:52:31.021Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['0']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "a": "Use your imagination and AI to create a unique chess set"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-12-05T01:52:28.034Z"
     }
 ]

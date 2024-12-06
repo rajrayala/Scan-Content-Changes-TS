@@ -5232,5 +5232,22 @@
             }
         },
         "timestamp": "2024-12-05T01:52:28.034Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "a": "Learn practical AI skills",
+                            "span": "with training and tools from Google"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-12-06T01:51:13.998Z"
     }
 ]

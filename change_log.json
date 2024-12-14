@@ -5298,5 +5298,21 @@
             }
         },
         "timestamp": "2024-12-13T01:53:19.183Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "a": "See what the world searched for in 2024"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-12-14T01:48:27.839Z"
     }
 ]

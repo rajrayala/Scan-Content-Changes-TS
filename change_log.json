@@ -5383,5 +5383,77 @@
             }
         },
         "timestamp": "2024-12-19T01:48:58.620Z"
+    },
+    {
+        "url": "https://google.com/drive",
+        "changes": {
+            "item_added": {
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['24']": "Italiano",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['25']": "Magyar",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['26']": "Nederlands",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['27']": "Norsk",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['28']": "Polski",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['29']": "Português (Brasil)",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['30']": "Português (Portugal)",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['31']": "Suomi",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['32']": "Svenska",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['33']": "Tiếng Việt",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['34']": "Türkçe",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['35']": "Русский",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['36']": "Українська",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['37']": "עברית",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['38']": "العربية",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['39']": "العربية – مصر",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['40']": "ไทย",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['41']": "한국어",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['42']": "中文 (香港)",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['43']": "中文（简体中文）",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['44']": "中文（繁體中文）",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['45']": "日本語"
+            },
+            "item_removed": {
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['24']": "Magyar",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['25']": "Nederlands",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['26']": "Norsk",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['27']": "Polski",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['28']": "Português (Brasil)",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['29']": "Português (Portugal)",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['30']": "Suomi",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['31']": "Svenska",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['32']": "Tiếng Việt",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['33']": "Türkçe",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['34']": "Русский",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['35']": "Українська",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['36']": "עברית",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['37']": "العربية",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['38']": "العربية – مصر",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['39']": "ไทย",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['40']": "한국어",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['41']": "中文 (香港)",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['42']": "中文（简体中文）",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['43']": "中文（繁體中文）",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['4']['a']['44']": "日本語"
+            }
+        },
+        "timestamp": "2024-12-20T01:43:37.670Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['0']": {
+                    "br": []
+                },
+                "root['center']['div']['1']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "a": "Explore 100 of the most searched gifts of 2024"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-12-20T01:43:37.869Z"
     }
 ]

@@ -5487,5 +5487,22 @@
             }
         },
         "timestamp": "2024-12-22T01:49:38.864Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "span": "Santa's on his way!",
+                            "a": "Follow his journey around the world"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2024-12-25T01:41:29.317Z"
     }
 ]

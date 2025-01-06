@@ -7439,5 +7439,22 @@
             }
         },
         "timestamp": "2025-01-05T01:49:37.749Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['1']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "span": "Score one final special offer for",
+                            "a": "NFL Sunday Ticket"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2025-01-06T01:47:25.305Z"
     }
 ]

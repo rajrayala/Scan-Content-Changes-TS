@@ -6,13 +6,13 @@ import { readUrlsFromCsv, saveJson, loadJson, sanitizeFilename, updateChangeLog 
 import { updateRepo } from './github_utils';
 
 async function main() {
-  const repoPath = process.env.GITHUB_WORKSPACE || '.';
+  const repoPath = process.env.GITHUB_WORKSPACE || process.cwd() || '.';
   const csvFilePath = path.join(repoPath, 'urls.csv');
   const resultsDir = path.join(repoPath, 'results');
 
   // Ensure the results directory exists
   if (!fs.existsSync(resultsDir)) {
-    fs.mkdirSync(resultsDir);
+    fs.mkdirSync(resultsDir, { recursive: true });
   }
 
   const urls = await readUrlsFromCsv(csvFilePath);
@@ -39,8 +39,10 @@ async function main() {
 
   if (filesToCommit.length && process.env.GITHUB_TOKEN) {
     await updateRepo(filesToCommit, 'Update content and change log');
-  } else {
+  } else if (filesToCommit) {
     console.log("Changes detected, but not committing because GITHUB_TOKEN is not set or no changes were detected.");
+  } else {
+    console.log("No changes detected.");
   }
 }
 

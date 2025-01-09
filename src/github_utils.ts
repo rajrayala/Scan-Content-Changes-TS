@@ -7,7 +7,8 @@ export async function updateRepo(files: string[], commitMessage: string) {
 
   const token = process.env.GITHUB_TOKEN;
   const repoName = process.env.GITHUB_REPOSITORY;
-  const workspace = process.env.GITHUB_WORKSPACE || '.';
+  const baseUrl = process.env.GITHUB_API_URL || 'https://api.github.com';
+  const workspace = process.env.GITHUB_WORKSPACE || process.cwd() || '.';
 
   if (!token || !repoName) {
     console.error("Missing required environment variables.");
@@ -15,7 +16,11 @@ export async function updateRepo(files: string[], commitMessage: string) {
   }
 
   // Pass fetch to Octokit
-  const octokit = new Octokit({ auth: token, request: { fetch } });
+  const octokit = new Octokit({
+    auth: token,
+    request: { fetch },
+    baseUrl: baseUrl
+  });
   const [owner, name] = repoName.split('/');
 
   const { data: repo } = await octokit.repos.get({ owner, repo: name });

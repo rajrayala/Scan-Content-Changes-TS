@@ -1,0 +1,40 @@
+version: 2.1
+
+# ----------------------------------------------------------------------
+# Jobs
+# ----------------------------------------------------------------------
+
+jobs:
+  run_scripts:
+    docker:
+      - image: circleci/node:16
+    steps:
+      - checkout
+      - run:
+          name: Set environment variables
+          command: |
+            echo 'export GITHUB_ACTOR="$CIRCLE_USERNAME"' >> $BASH_ENV
+            echo 'export GITHUB_REPOSITORY="${CIRCLE_PROJECT_USERNAME:-}/${CIRCLE_PROJECT_REPONAME:-}"' >> $BASH_ENV
+      - run:
+          name: Install dependencies
+          command: npm install
+      - run:
+          name: Run scan scripts
+          command: npm run start
+
+# ----------------------------------------------------------------------
+# Workflow
+# ----------------------------------------------------------------------
+
+workflows:
+  version: 2
+  pipeline:
+    triggers:
+      - schedule:
+          cron: '0 * * * *'
+          filters:
+            branches:
+              only:
+                - main
+    jobs:
+      - run_scripts

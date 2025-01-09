@@ -7496,5 +7496,22 @@
             }
         },
         "timestamp": "2025-01-08T01:43:18.654Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']['div']": {
+                    "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                    "div": {
+                        "a": "President Jimmy Carter, 1924 - 2024"
+                    }
+                }
+            },
+            "item_removed": {
+                "root['center']['div']['0']['br']": []
+            }
+        },
+        "timestamp": "2025-01-09T23:50:14.952Z"
     }
 ]

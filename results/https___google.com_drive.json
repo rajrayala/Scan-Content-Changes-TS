@@ -1938,11 +1938,6 @@
                                                     "div": [
                                                         {
                                                             "a": {
-                                                                "span": "Gemini for Workspace"
-                                                            }
-                                                        },
-                                                        {
-                                                            "a": {
                                                                 "span": "Meet hardware"
                                                             }
                                                         },
@@ -2298,11 +2293,6 @@
                                                         "h2": "Add-ons",
                                                         "ul": {
                                                             "li": [
-                                                                {
-                                                                    "a": {
-                                                                        "span": "Gemini for Workspace"
-                                                                    }
-                                                                },
                                                                 {
                                                                     "a": {
                                                                         "span": "Meet hardware"
@@ -2679,23 +2669,6 @@
                                 },
                                 {
                                     "div": [
-                                        {
-                                            "gws-tooltip": {
-                                                "div": {
-                                                    "span": "Premium feature"
-                                                },
-                                                "gws-popover": {
-                                                    "div": {
-                                                        "p": {
-                                                            "gws-button": [
-                                                                "Gemini add-on to Workspace plans",
-                                                                "Google One Premium plan"
-                                                            ]
-                                                        }
-                                                    }
-                                                }
-                                            }
-                                        },
                                         {
                                             "h2": "Make smarter decisions with Gemini in Drive"
                                         },

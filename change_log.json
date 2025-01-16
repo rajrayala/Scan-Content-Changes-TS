@@ -7530,5 +7530,62 @@
             }
         },
         "timestamp": "2025-01-11T01:43:08.078Z"
+    },
+    {
+        "url": "https://google.com/drive",
+        "changes": {
+            "item_added": {
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['1']['details']['4']['div']['div']['0']['a']['span']": "Meet hardware",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['1']['details']['4']['div']['div']['1']['a']['span']": "Google Voice",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['1']['details']['4']['div']['div']['2']['a']['span']": "AppSheet",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['2']['ul']['2']['li']['1']['ul']['li']['0']['a']['span']": "Meet hardware",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['2']['ul']['2']['li']['1']['ul']['li']['1']['a']['span']": "Google Voice",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['2']['ul']['2']['li']['1']['ul']['li']['2']['a']['span']": "AppSheet",
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['0']['h2']": "Make smarter decisions with Gemini in Drive",
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['1']['p']": {
+                    "gws-button": "Gemini for Google Workspace"
+                }
+            },
+            "item_removed": {
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['1']['details']['4']['div']['div']['0']['a']['span']": "Gemini for Workspace",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['1']['details']['4']['div']['div']['1']['a']['span']": "Meet hardware",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['1']['details']['4']['div']['div']['2']['a']['span']": "Google Voice",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['1']['details']['4']['div']['div']['3']": {
+                    "a": {
+                        "span": "AppSheet"
+                    }
+                },
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['2']['ul']['2']['li']['1']['ul']['li']['0']['a']['span']": "Gemini for Workspace",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['2']['ul']['2']['li']['1']['ul']['li']['1']['a']['span']": "Meet hardware",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['2']['ul']['2']['li']['1']['ul']['li']['2']['a']['span']": "Google Voice",
+                "root['div']['div']['1']['footer']['div']['div']['1']['div']['2']['ul']['2']['li']['1']['ul']['li']['3']": {
+                    "a": {
+                        "span": "AppSheet"
+                    }
+                },
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['0']['gws-tooltip']": {
+                    "div": {
+                        "span": "Premium feature"
+                    },
+                    "gws-popover": {
+                        "div": {
+                            "p": {
+                                "gws-button": [
+                                    "Gemini add-on to Workspace plans",
+                                    "Google One Premium plan"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['1']['h2']": "Make smarter decisions with Gemini in Drive",
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['2']": {
+                    "p": {
+                        "gws-button": "Gemini for Google Workspace"
+                    }
+                }
+            }
+        },
+        "timestamp": "2025-01-16T01:39:55.692Z"
     }
 ]

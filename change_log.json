@@ -7598,5 +7598,16 @@
             }
         },
         "timestamp": "2025-01-21T01:39:55.825Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']": {
+                    "br": []
+                }
+            }
+        },
+        "timestamp": "2025-01-22T01:42:18.136Z"
     }
 ]

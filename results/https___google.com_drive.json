@@ -26,68 +26,70 @@
                                                     "div": {
                                                         "div": [
                                                             {
-                                                                "div": [
-                                                                    {
-                                                                        "a": {
-                                                                            "div": {
-                                                                                "div": "For Individuals"
+                                                                "div": {
+                                                                    "div": [
+                                                                        {
+                                                                            "a": {
+                                                                                "div": {
+                                                                                    "div": "For Individuals"
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "details": {
+                                                                                "summary": "For Business",
+                                                                                "div": {
+                                                                                    "a": [
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Overview"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Small Business"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "New Business"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Startups"
+                                                                                            }
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "details": {
+                                                                                "summary": "For Enterprise",
+                                                                                "div": {
+                                                                                    "a": [
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Overview"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Frontline Workers"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Work Safer"
+                                                                                            }
+                                                                                        }
+                                                                                    ]
+                                                                                }
                                                                             }
                                                                         }
-                                                                    },
-                                                                    {
-                                                                        "details": {
-                                                                            "summary": "For Business",
-                                                                            "div": {
-                                                                                "a": [
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Overview"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Small Business"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "New Business"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Startups"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "details": {
-                                                                            "summary": "For Enterprise",
-                                                                            "div": {
-                                                                                "a": [
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Overview"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Frontline Workers"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Work Safer"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        }
-                                                                    }
-                                                                ]
+                                                                    ]
+                                                                }
                                                             },
                                                             {
                                                                 "a": [
@@ -106,79 +108,88 @@
                                                             {
                                                                 "div": [
                                                                     {
-                                                                        "a": [
+                                                                        "div": [
                                                                             {
-                                                                                "div": [
+                                                                                "a": [
                                                                                     {
-                                                                                        "div": "Gmail"
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Gmail"
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Calendar"
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Drive"
+                                                                                            }
+                                                                                        ]
                                                                                     }
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "div": [
+                                                                                "a": [
                                                                                     {
-                                                                                        "div": "Calendar"
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Meet"
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Docs"
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Sheets"
+                                                                                            }
+                                                                                        ]
                                                                                     }
                                                                                 ]
                                                                             },
                                                                             {
-                                                                                "div": [
+                                                                                "a": [
                                                                                     {
-                                                                                        "div": "Drive"
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Slides"
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Chat"
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Vids"
+                                                                                            }
+                                                                                        ]
                                                                                     }
                                                                                 ]
                                                                             }
                                                                         ]
                                                                     },
                                                                     {
-                                                                        "a": [
-                                                                            {
-                                                                                "div": [
-                                                                                    {
-                                                                                        "div": "Meet"
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "div": [
-                                                                                    {
-                                                                                        "div": "Docs"
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "div": [
-                                                                                    {
-                                                                                        "div": "Sheets"
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        ]
-                                                                    },
-                                                                    {
-                                                                        "a": [
-                                                                            {
-                                                                                "div": [
-                                                                                    {
-                                                                                        "div": "Slides"
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "div": [
-                                                                                    {
-                                                                                        "div": "Chat"
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "div": [
-                                                                                    {
-                                                                                        "div": "Vids"
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        ]
+                                                                        "a": {
+                                                                            "span": "See all apps"
+                                                                        }
                                                                     }
                                                                 ]
                                                             },
@@ -196,71 +207,73 @@
                                                     "div": {
                                                         "div": [
                                                             {
-                                                                "div": [
-                                                                    {
-                                                                        "details": {
-                                                                            "summary": "Industries",
-                                                                            "div": {
-                                                                                "a": [
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Healthcare and Life Sciences"
+                                                                "div": {
+                                                                    "div": [
+                                                                        {
+                                                                            "details": {
+                                                                                "summary": "Industries",
+                                                                                "div": {
+                                                                                    "a": [
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Healthcare and Life Sciences"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Retail"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Manufacturing"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Government and Public Sector"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Professional Services"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Technology"
+                                                                                            }
                                                                                         }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Retail"
+                                                                                    ]
+                                                                                }
+                                                                            }
+                                                                        },
+                                                                        {
+                                                                            "details": {
+                                                                                "summary": "Departments",
+                                                                                "div": {
+                                                                                    "a": [
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Sales"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Marketing"
+                                                                                            }
+                                                                                        },
+                                                                                        {
+                                                                                            "div": {
+                                                                                                "div": "Human Resources"
+                                                                                            }
                                                                                         }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Manufacturing"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Government and Public Sector"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Professional Services"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Technology"
-                                                                                        }
-                                                                                    }
-                                                                                ]
+                                                                                    ]
+                                                                                }
                                                                             }
                                                                         }
-                                                                    },
-                                                                    {
-                                                                        "details": {
-                                                                            "summary": "Departments",
-                                                                            "div": {
-                                                                                "a": [
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Sales"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Marketing"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Human Resources"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        }
-                                                                    }
-                                                                ]
+                                                                    ]
+                                                                }
                                                             },
                                                             {
                                                                 "a": "Security"
@@ -275,85 +288,94 @@
                                                             {
                                                                 "div": [
                                                                     {
-                                                                        "details": {
-                                                                            "summary": "Discover",
-                                                                            "div": {
-                                                                                "a": [
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Security and trust"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Blog"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Customer stories"
-                                                                                        }
+                                                                        "div": [
+                                                                            {
+                                                                                "details": {
+                                                                                    "summary": "Discover",
+                                                                                    "div": {
+                                                                                        "a": [
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Security and trust"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Blog"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Customer stories"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
                                                                                     }
-                                                                                ]
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "details": {
+                                                                                    "summary": "Learn",
+                                                                                    "div": {
+                                                                                        "a": [
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "FAQs"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Training and certification"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Live and on-demand events"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Video conferencing"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "details": {
+                                                                                    "summary": "Connect",
+                                                                                    "div": {
+                                                                                        "a": [
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Partners"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Marketplace"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Integrations"
+                                                                                                }
+                                                                                            },
+                                                                                            {
+                                                                                                "div": {
+                                                                                                    "div": "Refer Google Workspace"
+                                                                                                }
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                }
                                                                             }
-                                                                        }
+                                                                        ]
                                                                     },
                                                                     {
-                                                                        "details": {
-                                                                            "summary": "Learn",
-                                                                            "div": {
-                                                                                "a": [
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "FAQs"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Training and certification"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Live and on-demand events"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Video conferencing"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "details": {
-                                                                            "summary": "Connect",
-                                                                            "div": {
-                                                                                "a": [
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Partners"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Marketplace"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Integrations"
-                                                                                        }
-                                                                                    },
-                                                                                    {
-                                                                                        "div": {
-                                                                                            "div": "Refer Google Workspace"
-                                                                                        }
-                                                                                    }
-                                                                                ]
-                                                                            }
+                                                                        "a": {
+                                                                            "span": "See more"
                                                                         }
                                                                     }
                                                                 ]

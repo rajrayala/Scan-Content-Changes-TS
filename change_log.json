@@ -8309,5 +8309,25 @@
             }
         },
         "timestamp": "2025-02-08T01:39:07.848Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['1']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "span": [
+                                "Watch Super Bowl LIX LIVE on FOX with",
+                                "starting 1pm ET, Feb. 9"
+                            ],
+                            "a": "YouTube TV"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2025-02-10T01:43:28.805Z"
     }
 ]

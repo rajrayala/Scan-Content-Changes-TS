@@ -8329,5 +8329,22 @@
             }
         },
         "timestamp": "2025-02-10T01:43:28.805Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['1']['div']['div']['span']": ": See what everyone’s talking about",
+                "root['center']['div']['1']['div']['div']['a']": "Google Pixel with Gemini Live at the Big Game"
+            },
+            "item_removed": {
+                "root['center']['div']['1']['div']['div']['span']": [
+                    "Watch Super Bowl LIX LIVE on FOX with",
+                    "starting 1pm ET, Feb. 9"
+                ],
+                "root['center']['div']['1']['div']['div']['a']": "YouTube TV"
+            }
+        },
+        "timestamp": "2025-02-11T01:42:01.215Z"
     }
 ]

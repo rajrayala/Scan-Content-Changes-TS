@@ -8346,5 +8346,19 @@
             }
         },
         "timestamp": "2025-02-11T01:42:01.215Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['1']['div']['div']['a']": "Four tools to support teen wellbeing online",
+                "root['center']['div']['1']['div']['div']['span']": "Safer Internet Day:"
+            },
+            "item_removed": {
+                "root['center']['div']['1']['div']['div']['a']": "Google Pixel with Gemini Live at the Big Game",
+                "root['center']['div']['1']['div']['div']['span']": ": See what everyone’s talking about"
+            }
+        },
+        "timestamp": "2025-02-12T01:42:09.518Z"
     }
 ]

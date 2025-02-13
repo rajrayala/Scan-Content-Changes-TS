@@ -8360,5 +8360,22 @@
             }
         },
         "timestamp": "2025-02-12T01:42:09.518Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['1']": {
+                    "div": {
+                        "style": ".U8K5Lc{font-size:small;margin-bottom:32px}.U8K5Lc a.qDTOof{display:inline-block;text-decoration:none}.U8K5Lc img{border:none;margin-right:5px;vertical-align:middle}",
+                        "div": {
+                            "span": "Safer Internet Day:",
+                            "a": "Four tools to support teen wellbeing online"
+                        }
+                    }
+                }
+            }
+        },
+        "timestamp": "2025-02-13T01:42:52.113Z"
     }
 ]

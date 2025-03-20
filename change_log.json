@@ -9329,5 +9329,16 @@
             }
         },
         "timestamp": "2025-03-19T01:49:25.484Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['0']": {
+                    "br": []
+                }
+            }
+        },
+        "timestamp": "2025-03-20T01:48:24.282Z"
     }
 ]

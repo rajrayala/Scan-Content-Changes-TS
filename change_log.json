@@ -10205,5 +10205,16 @@
             }
         },
         "timestamp": "2025-04-14T01:56:17.545Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['0']": {
+                    "br": []
+                }
+            }
+        },
+        "timestamp": "2025-04-15T01:55:11.088Z"
     }
 ]

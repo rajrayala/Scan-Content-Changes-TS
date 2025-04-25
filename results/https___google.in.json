@@ -31,11 +31,7 @@
         ]
     },
     "center": {
-        "div": [
-            {
-                "br": []
-            }
-        ],
+        "div": [],
         "form": {
             "table": {
                 "tbody": {

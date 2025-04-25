@@ -434,6 +434,9 @@
                                                 },
                                                 {
                                                     "a": "Pricing"
+                                                },
+                                                {
+                                                    "a": "Try Drive for work"
                                                 }
                                             ]
                                         }
@@ -1024,20 +1027,14 @@
                                     ]
                                 },
                                 {
-                                    "gws-dropdown-button": {
-                                        "span": "Try Drive for work",
-                                        "a": [
-                                            {
-                                                "span": "For small business"
-                                            },
-                                            {
-                                                "span": "For enterprise"
-                                            }
-                                        ]
-                                    },
-                                    "a": {
-                                        "span": "Sign in"
-                                    }
+                                    "a": [
+                                        {
+                                            "span": "Try Drive for work"
+                                        },
+                                        {
+                                            "span": "Sign in"
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -1608,25 +1605,24 @@
                                             "a": "Pricing"
                                         }
                                     ]
+                                },
+                                {
+                                    "a": {
+                                        "span": "Try Drive for work"
+                                    }
                                 }
                             ]
                         }
                     ],
                     "gws-action-bar": {
-                        "a": {
-                            "span": "Sign in"
-                        },
-                        "gws-dropdown-button": {
-                            "span": "Try Drive for work",
-                            "a": [
-                                {
-                                    "span": "For small business"
-                                },
-                                {
-                                    "span": "For enterprise"
-                                }
-                            ]
-                        }
+                        "a": [
+                            {
+                                "span": "Sign in"
+                            },
+                            {
+                                "span": "Try Drive for work"
+                            }
+                        ]
                     }
                 }
             },
@@ -2745,20 +2741,10 @@
                                         {
                                             "p": "AI-powered cloud storage for seamless file sharing and enhanced collaboration.",
                                             "div": {
-                                                "gws-button": "Sign in",
-                                                "gws-dropdown-button": {
-                                                    "div": [
-                                                        "Try Drive for work"
-                                                    ],
-                                                    "a": [
-                                                        {
-                                                            "span": "For small business"
-                                                        },
-                                                        {
-                                                            "span": "For enterprise"
-                                                        }
-                                                    ]
-                                                }
+                                                "gws-button": [
+                                                    "Sign in",
+                                                    "Try Drive for work"
+                                                ]
                                             }
                                         }
                                     ]
@@ -3458,20 +3444,10 @@
                                         "div": {
                                             "h2": "Store, manage and collaborate with Google Drive",
                                             "div": {
-                                                "gws-button": "Sign in",
-                                                "gws-dropdown-button": {
-                                                    "div": [
-                                                        "Try Drive for work"
-                                                    ],
-                                                    "a": [
-                                                        {
-                                                            "span": "For small business"
-                                                        },
-                                                        {
-                                                            "span": "For enterprise"
-                                                        }
-                                                    ]
-                                                }
+                                                "gws-button": [
+                                                    "Sign in",
+                                                    "Try Drive for work"
+                                                ]
                                             }
                                         }
                                     }

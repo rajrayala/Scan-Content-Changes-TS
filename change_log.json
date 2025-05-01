@@ -11013,5 +11013,95 @@
             }
         },
         "timestamp": "2025-04-30T01:55:40.873Z"
+    },
+    {
+        "url": "https://google.com/drive",
+        "changes": {
+            "item_added": {
+                "root['div']['div']['0']['header']['div']['0']['div']['3']['a']['span']": "Sign in",
+                "root['div']['div']['0']['header']['div']['0']['div']['3']['gws-dropdown-button']": {
+                    "span": "Try Drive for work",
+                    "a": [
+                        {
+                            "span": "For small business"
+                        },
+                        {
+                            "span": "For enterprise"
+                        }
+                    ]
+                },
+                "root['div']['div']['0']['header']['gws-action-bar']['a']['span']": "Sign in",
+                "root['div']['div']['0']['header']['gws-action-bar']['gws-dropdown-button']": {
+                    "span": "Try Drive for work",
+                    "a": [
+                        {
+                            "span": "For small business"
+                        },
+                        {
+                            "span": "For enterprise"
+                        }
+                    ]
+                },
+                "root['div']['main']['section']['0']['div']['div']['div']['0']['div']['1']['div']['gws-button']": "Sign in",
+                "root['div']['main']['section']['0']['div']['div']['div']['0']['div']['1']['div']['gws-dropdown-button']": {
+                    "div": [
+                        "Try Drive for work"
+                    ],
+                    "a": [
+                        {
+                            "span": "For small business"
+                        },
+                        {
+                            "span": "For enterprise"
+                        }
+                    ]
+                },
+                "root['div']['main']['section']['15']['div']['div']['div']['div']['0']['div']['div']['gws-button']": "Sign in",
+                "root['div']['main']['section']['15']['div']['div']['div']['div']['0']['div']['div']['gws-dropdown-button']": {
+                    "div": [
+                        "Try Drive for work"
+                    ],
+                    "a": [
+                        {
+                            "span": "For small business"
+                        },
+                        {
+                            "span": "For enterprise"
+                        }
+                    ]
+                }
+            },
+            "item_removed": {
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['div']['2']": {
+                    "a": "Try Drive for work"
+                },
+                "root['div']['div']['0']['header']['div']['0']['div']['3']['a']['0']": {
+                    "span": "Try Drive for work"
+                },
+                "root['div']['div']['0']['header']['div']['0']['div']['3']['a']['1']": {
+                    "span": "Sign in"
+                },
+                "root['div']['div']['0']['header']['div']['1']['div']['1']": {
+                    "a": {
+                        "span": "Try Drive for work"
+                    }
+                },
+                "root['div']['div']['0']['header']['gws-action-bar']['a']['0']": {
+                    "span": "Sign in"
+                },
+                "root['div']['div']['0']['header']['gws-action-bar']['a']['1']": {
+                    "span": "Try Drive for work"
+                },
+                "root['div']['main']['section']['0']['div']['div']['div']['0']['div']['1']['div']['gws-button']": [
+                    "Sign in",
+                    "Try Drive for work"
+                ],
+                "root['div']['main']['section']['15']['div']['div']['div']['div']['0']['div']['div']['gws-button']": [
+                    "Sign in",
+                    "Try Drive for work"
+                ]
+            }
+        },
+        "timestamp": "2025-05-01T02:04:46.477Z"
     }
 ]

@@ -11327,5 +11327,17 @@
             }
         },
         "timestamp": "2025-05-08T01:58:47.343Z"
+    },
+    {
+        "url": "https://google.com/drive",
+        "changes": {
+            "item_added": {
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['1']['p']['gws-button']": "Google Workspace with Gemini"
+            },
+            "item_removed": {
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['1']['p']['gws-button']": "Gemini for Google Workspace"
+            }
+        },
+        "timestamp": "2025-05-09T01:57:29.484Z"
     }
 ]

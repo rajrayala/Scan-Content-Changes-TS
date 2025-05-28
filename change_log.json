@@ -11934,5 +11934,334 @@
             }
         },
         "timestamp": "2025-05-27T01:57:54.212Z"
+    },
+    {
+        "url": "https://google.com/drive",
+        "changes": {
+            "item_added": {
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['1']['div']['div']['0']['div']['div']['0']['div']": {
+                    "a": [
+                        {
+                            "div": [
+                                {
+                                    "div": "Gmail"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Drive"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Meet"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Chat"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Calendar"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['1']['div']['div']['0']['div']['div']['1']['div']": {
+                    "a": [
+                        {
+                            "div": [
+                                {
+                                    "div": "Docs"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Sheets"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Slides"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Forms"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Sites"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['1']['div']['div']['0']['div']['div']['2']['div']": {
+                    "a": [
+                        {
+                            "div": [
+                                {
+                                    "div": "Gemini app"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "NotebookLM"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Vids"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "Keep"
+                                }
+                            ]
+                        },
+                        {
+                            "div": [
+                                {
+                                    "div": "AppSheet"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['div']['2']": {
+                    "a": "Try Drive for work"
+                },
+                "root['div']['div']['0']['header']['div']['0']['div']['3']['a']['0']": {
+                    "span": "Try Drive for work"
+                },
+                "root['div']['div']['0']['header']['div']['0']['div']['3']['a']['1']": {
+                    "span": "Sign in"
+                },
+                "root['div']['div']['0']['header']['div']['1']['div']['1']": {
+                    "a": {
+                        "span": "Try Drive for work"
+                    }
+                },
+                "root['div']['div']['0']['header']['gws-action-bar']['a']['0']": {
+                    "span": "Sign in"
+                },
+                "root['div']['div']['0']['header']['gws-action-bar']['a']['1']": {
+                    "span": "Try Drive for work"
+                },
+                "root['div']['main']['section']['0']['div']['div']['div']['0']['div']['1']['div']['gws-button']": [
+                    "Sign in",
+                    "Try Drive for work"
+                ],
+                "root['div']['main']['section']['15']['div']['div']['div']['div']['0']['div']['div']['gws-button']": [
+                    "Sign in",
+                    "Try Drive for work"
+                ]
+            },
+            "item_removed": {
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['1']['div']['div']['0']['div']['div']['0']['a']": [
+                    {
+                        "div": [
+                            {
+                                "div": "Gmail"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Drive"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Meet"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Chat"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Calendar"
+                            }
+                        ]
+                    }
+                ],
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['1']['div']['div']['0']['div']['div']['1']['a']": [
+                    {
+                        "div": [
+                            {
+                                "div": "Docs"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Sheets"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Slides"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Forms"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Sites"
+                            }
+                        ]
+                    }
+                ],
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['1']['div']['div']['0']['div']['div']['2']['a']": [
+                    {
+                        "div": [
+                            {
+                                "div": "Gemini app"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "NotebookLM"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Vids"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "Keep"
+                            }
+                        ]
+                    },
+                    {
+                        "div": [
+                            {
+                                "div": "AppSheet"
+                            }
+                        ]
+                    }
+                ],
+                "root['div']['div']['0']['header']['div']['0']['div']['3']['gws-dropdown-button']": {
+                    "span": "Try Drive for work",
+                    "a": [
+                        {
+                            "span": "For small business"
+                        },
+                        {
+                            "span": "For enterprise"
+                        }
+                    ]
+                },
+                "root['div']['div']['0']['header']['div']['0']['div']['3']['a']['span']": "Sign in",
+                "root['div']['div']['0']['header']['gws-action-bar']['a']['span']": "Sign in",
+                "root['div']['div']['0']['header']['gws-action-bar']['gws-dropdown-button']": {
+                    "span": "Try Drive for work",
+                    "a": [
+                        {
+                            "span": "For small business"
+                        },
+                        {
+                            "span": "For enterprise"
+                        }
+                    ]
+                },
+                "root['div']['main']['section']['0']['div']['div']['div']['0']['div']['1']['div']['gws-button']": "Sign in",
+                "root['div']['main']['section']['0']['div']['div']['div']['0']['div']['1']['div']['gws-dropdown-button']": {
+                    "div": [
+                        "Try Drive for work"
+                    ],
+                    "a": [
+                        {
+                            "span": "For small business"
+                        },
+                        {
+                            "span": "For enterprise"
+                        }
+                    ]
+                },
+                "root['div']['main']['section']['15']['div']['div']['div']['div']['0']['div']['div']['gws-button']": "Sign in",
+                "root['div']['main']['section']['15']['div']['div']['div']['div']['0']['div']['div']['gws-dropdown-button']": {
+                    "div": [
+                        "Try Drive for work"
+                    ],
+                    "a": [
+                        {
+                            "span": "For small business"
+                        },
+                        {
+                            "span": "For enterprise"
+                        }
+                    ]
+                }
+            }
+        },
+        "timestamp": "2025-05-28T02:00:08.158Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['div']['0']": {
+                    "br": []
+                }
+            }
+        },
+        "timestamp": "2025-05-28T02:00:08.413Z"
     }
 ]

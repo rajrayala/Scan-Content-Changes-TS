@@ -12285,5 +12285,14 @@
             }
         },
         "timestamp": "2025-06-03T02:01:58.821Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['span']['div']['div']['a']['3']": "Google.com"
+            }
+        },
+        "timestamp": "2025-06-12T02:01:12.015Z"
     }
 ]

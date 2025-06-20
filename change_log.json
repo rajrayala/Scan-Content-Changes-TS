@@ -19891,5 +19891,17 @@
             }
         },
         "timestamp": "2025-06-19T02:03:04.061Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['div']['0']": {
+                    "br": []
+                },
+                "root['center']['span']['div']['div']['a']['3']": "Google.com"
+            }
+        },
+        "timestamp": "2025-06-20T02:02:04.384Z"
     }
 ]

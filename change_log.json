@@ -37622,5 +37622,19 @@
             }
         },
         "timestamp": "2025-06-29T02:20:10.396Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['span']['div']['div']['a']['3']": "Google.com"
+            },
+            "item_removed": {
+                "root['center']['div']['0']": {
+                    "br": []
+                }
+            }
+        },
+        "timestamp": "2025-07-02T02:03:31.739Z"
     }
 ]

@@ -40169,5 +40169,14 @@
             }
         },
         "timestamp": "2025-07-03T02:03:43.220Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_removed": {
+                "root['center']['span']['div']['div']['a']['3']": "Google.com"
+            }
+        },
+        "timestamp": "2025-07-04T02:03:15.377Z"
     }
 ]

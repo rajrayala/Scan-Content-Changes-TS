@@ -40189,5 +40189,14 @@
             }
         },
         "timestamp": "2025-07-05T01:59:06.014Z"
+    },
+    {
+        "url": "https://google.in",
+        "changes": {
+            "item_added": {
+                "root['center']['span']['div']['div']['a']['3']": "Google.com"
+            }
+        },
+        "timestamp": "2025-07-06T02:18:48.522Z"
     }
 ]

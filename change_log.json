@@ -47814,5 +47814,49 @@
             }
         },
         "timestamp": "2025-07-14T02:18:55.696Z"
+    },
+    {
+        "url": "https://google.com/drive",
+        "changes": {
+            "item_added": {
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['div']": [
+                    {
+                        "h2": "Make smarter decisions with Gemini in Drive"
+                    },
+                    {
+                        "p": {
+                            "gws-button": "Google Workspace with Gemini"
+                        }
+                    }
+                ],
+                "root['div']['main']['section']['11']['div']['div']['div']['0']['div']['div']": [
+                    {
+                        "h2": "Sync your desktop with Drive"
+                    },
+                    {
+                        "p": "Get the most out of Drive right from your computer. Automatically keep all your Drive files up to date. Available for Windows and MacOS.",
+                        "gws-button": "Download Drive for desktop"
+                    }
+                ]
+            },
+            "item_removed": {
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['0']": {
+                    "h2": "Make smarter decisions with Gemini in Drive"
+                },
+                "root['div']['main']['section']['2']['div']['div']['div']['1']['div']['1']": {
+                    "p": {
+                        "gws-button": "Google Workspace with Gemini"
+                    }
+                },
+                "root['div']['main']['section']['11']['div']['div']['div']['0']['div']['0']": {
+                    "h2": "Sync your desktop with Drive"
+                },
+                "root['div']['main']['section']['11']['div']['div']['div']['0']['div']['1']": {
+                    "p": "Get the most out of Drive right from your computer. Automatically keep all your Drive files up to date. Available for Windows and MacOS.",
+                    "gws-button": "Download Drive for desktop"
+                }
+            }
+        },
+        "timestamp": "2025-07-23T02:11:55.264Z"
     }
 ]

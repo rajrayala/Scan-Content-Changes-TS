@@ -2822,16 +2822,18 @@
                                     }
                                 },
                                 {
-                                    "div": [
-                                        {
-                                            "h2": "Make smarter decisions with Gemini in Drive"
-                                        },
-                                        {
-                                            "p": {
-                                                "gws-button": "Google Workspace with Gemini"
+                                    "div": {
+                                        "div": [
+                                            {
+                                                "h2": "Make smarter decisions with Gemini in Drive"
+                                            },
+                                            {
+                                                "p": {
+                                                    "gws-button": "Google Workspace with Gemini"
+                                                }
                                             }
-                                        }
-                                    ]
+                                        ]
+                                    }
                                 }
                             ]
                         }
@@ -3336,15 +3338,17 @@
                         "div": {
                             "div": [
                                 {
-                                    "div": [
-                                        {
-                                            "h2": "Sync your desktop with Drive"
-                                        },
-                                        {
-                                            "p": "Get the most out of Drive right from your computer. Automatically keep all your Drive files up to date. Available for Windows and MacOS.",
-                                            "gws-button": "Download Drive for desktop"
-                                        }
-                                    ]
+                                    "div": {
+                                        "div": [
+                                            {
+                                                "h2": "Sync your desktop with Drive"
+                                            },
+                                            {
+                                                "p": "Get the most out of Drive right from your computer. Automatically keep all your Drive files up to date. Available for Windows and MacOS.",
+                                                "gws-button": "Download Drive for desktop"
+                                            }
+                                        ]
+                                    }
                                 },
                                 {
                                     "picture": {

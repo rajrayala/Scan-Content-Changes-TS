@@ -145,6 +145,13 @@
                                                                                                 "div": "Calendar"
                                                                                             }
                                                                                         ]
+                                                                                    },
+                                                                                    {
+                                                                                        "div": [
+                                                                                            {
+                                                                                                "div": "Tasks"
+                                                                                            }
+                                                                                        ]
                                                                                     }
                                                                                 ]
                                                                             }
@@ -644,6 +651,16 @@
                                                                                             "div": [
                                                                                                 "Calendar",
                                                                                                 "Shared calendars"
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "div": [
+                                                                                        {
+                                                                                            "div": [
+                                                                                                "Tasks",
+                                                                                                "Tasks and task lists"
                                                                                             ]
                                                                                         }
                                                                                     ]
@@ -1227,6 +1244,16 @@
                                                                                             ]
                                                                                         }
                                                                                     ]
+                                                                                },
+                                                                                {
+                                                                                    "div": [
+                                                                                        {
+                                                                                            "div": [
+                                                                                                "Tasks",
+                                                                                                "Tasks and task lists"
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
                                                                                 }
                                                                             ]
                                                                         }
@@ -1649,7 +1676,8 @@
                                                             {
                                                                 "div": [
                                                                     {
-                                                                        "label": "Email"
+                                                                        "label": "Email",
+                                                                        "div": "This is not a valid email"
                                                                     },
                                                                     {
                                                                         "label": "Country",

@@ -47894,5 +47894,35 @@
             }
         },
         "timestamp": "2025-08-06T02:20:41.627Z"
+    },
+    {
+        "url": "https://google.com/drive",
+        "changes": {
+            "item_added": {
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['3']['div']['div']['0']['div']['0']['div']['1']['details']['div']['a']['2']['div']['div']": "Online Events & Webinars",
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['3']['div']['div']['0']['div']['0']['div']['1']['details']['div']['a']['3']['div']['div']": "Gen AI At Work Event Series",
+                "root['div']['div']['0']['header']['div']['0']['div']['2']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['2']['div']['div']['0']": "Online Events & Webinars",
+                "root['div']['div']['0']['header']['div']['0']['div']['2']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['2']['div']['div']['1']": "Hear from Workspace experts in digital events",
+                "root['div']['div']['0']['header']['div']['0']['div']['2']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['3']['div']['div']['0']": "Gen AI At Work Event Series",
+                "root['div']['div']['0']['header']['div']['0']['div']['2']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['3']['div']['div']['1']": "Attend in-person events about AI at work",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['2']['div']['div']['0']": "Online Events & Webinars",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['2']['div']['div']['1']": "Hear from Workspace experts in digital events",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['3']['div']['div']['0']": "Gen AI At Work Event Series",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['3']['div']['div']['1']": "Attend in-person events about AI at work"
+            },
+            "item_removed": {
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['3']['div']['div']['0']['div']['0']['div']['1']['details']['div']['a']['2']['div']['div']": "Live and on-demand events",
+                "root['div']['div']['0']['header']['div']['0']['div']['0']['div']['div']['details']['3']['div']['div']['0']['div']['0']['div']['1']['details']['div']['a']['3']['div']['div']": "Video conferencing",
+                "root['div']['div']['0']['header']['div']['0']['div']['2']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['2']['div']['div']['0']": "Live and on-demand events",
+                "root['div']['div']['0']['header']['div']['0']['div']['2']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['2']['div']['div']['1']": "Explore events and webinars",
+                "root['div']['div']['0']['header']['div']['0']['div']['2']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['3']['div']['div']['0']": "Video conferencing",
+                "root['div']['div']['0']['header']['div']['0']['div']['2']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['3']['div']['div']['1']": "Learn about Google Meet",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['2']['div']['div']['0']": "Live and on-demand events",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['2']['div']['div']['1']": "Explore events and webinars",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['3']['div']['div']['0']": "Video conferencing",
+                "root['div']['div']['0']['header']['div']['1']['div']['0']['details']['3']['details-dialog']['div']['div']['0']['div']['1']['div']['1']['div']['1']['a']['3']['div']['div']['1']": "Learn about Google Meet"
+            }
+        },
+        "timestamp": "2025-08-08T02:20:48.873Z"
     }
 ]
